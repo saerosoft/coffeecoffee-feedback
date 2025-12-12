@@ -8,10 +8,31 @@ This space is for end testers, users, and partners to share feedback, report iss
 
 ---
 
-## 📢 Where to Leave Feedback | 피드백은 어디에 남기나요?
+## 📢 Where to Leave Feedback | 피드백 안내
 
-Please choose the appropriate place depending on your purpose.  
-목적에 따라 아래 탭을 이용해주세요.
+Please submit all feedback using the **Issues** tab.  
+모든 피드백은 **Issues 탭**을 이용해주세요.
+
+### 🏷 Issue Title Rule | 이슈 제목 작성 규칙
+
+Please start your issue title with the app you are using.  
+이슈 제목은 **사용 중인 앱으로 시작해주세요.**
+
+- [Buyer] – Buyer App (구매자 앱)
+- [Supplier] – Supplier App (공급자 앱)
+- [Admin] – Admin Web (관리자 웹)
+
+#### Examples | 예시
+
+- [Buyer] Payment stuck on processing  
+  [Buyer] 결제 후 계속 처리 중 상태임
+
+- [Supplier] Commission feels too high  
+  [Supplier] 수수료가 너무 높게 느껴짐
+
+- [Admin] Cannot approve refund  
+  [Admin] 환불 승인이 되지 않음
+
 
 ### 🐛 Issues (Bug / Feature / Improvement)
 - Something is broken
